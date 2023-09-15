@@ -12,6 +12,7 @@ drawings:
 transition: slide-left
 title: ADTs
 monaco: false
+download: true
 ---
 
 # Tipos de Dados Algébricos 
